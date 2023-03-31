@@ -1,0 +1,2 @@
+Selenium=4.8.3
+Chromedriver=110.0.5481.77 
